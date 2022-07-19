@@ -1,0 +1,143 @@
+.sectionFourth {
+  padding-top: 150px;
+  background-image: url(https://wallpapercave.com/wp/wp2645878.jpg);
+}
+
+.sectionFourth_content {
+  display: flex;
+  justify-content: space-between;
+}
+
+.fourthCard1 {
+  background-color: rgb(240, 235, 235);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 70px 15px;
+  width: 320px;
+  margin-top: 120px;
+  border-radius: 10px;
+  box-shadow: -5px 20px 50px rgb(138, 130, 130);
+  height: 415px;
+}
+.fourthCard1 h5 {
+  margin-top: 15px;
+  font-size: 20px;
+  color: rgb(6, 6, 70);
+}
+
+.fourthCard1 p {
+  margin-top: 15px;
+  font-size: 15px;
+  margin-bottom: 15px;
+  color: rgb(6, 6, 70);
+}
+
+.fourthCard1 a {
+  text-decoration: none;
+  font-size: 12px;
+  color: rgb(252, 115, 52);
+  margin-bottom: 60px;
+}
+.fourthCard1 button {
+  background-color: rgb(35, 35, 63);
+  width: 120px;
+  height: 40px;
+  border: none;
+  border-radius: 5px;
+  color: white;
+}
+
+.fourthCard1 button:hover {
+  cursor: pointer;
+  background-color: rgb(55, 55, 95);
+}
+
+.fourthCard2 {
+  background-color: rgb(255, 146, 95);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 50px 15px;
+  border-radius: 10px;
+  width: 320px;
+  box-shadow: -5px 20px 50px rgb(138, 130, 130);
+  height: 415px;
+}
+.fourthCard2 h5 {
+  margin-top: 15px;
+  font-size: 20px;
+  color: rgb(6, 6, 70);
+}
+
+.fourthCard2 p {
+  margin-top: 15px;
+  font-size: 15px;
+  margin-bottom: 15px;
+  color: white;
+}
+
+.fourthCard2 a {
+  text-decoration: none;
+  font-size: 12px;
+  color: white;
+  margin-bottom: 60px;
+}
+.fourthCard2 button {
+  background-color: rgb(35, 35, 63);
+  width: 120px;
+  height: 40px;
+  border: none;
+  border-radius: 5px;
+  color: white;
+}
+
+.fourthCard2 button:hover {
+  cursor: pointer;
+  background-color: rgb(55, 55, 95);
+}
+
+.fourthCard3 {
+  background-color: rgb(240, 235, 235);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 50px 15px;
+  border-radius: 10px;
+  width: 320px;
+  margin-top: 120px;
+  height: 415px;
+  box-shadow: -5px 20px 50px rgb(138, 130, 130);
+}
+.fourthCard3 h5 {
+  margin-top: 15px;
+  font-size: 20px;
+  color: rgb(6, 6, 70);
+}
+
+.fourthCard3 p {
+  margin-top: 15px;
+  font-size: 15px;
+  margin-bottom: 15px;
+  color: rgb(6, 6, 70);
+}
+
+.fourthCard3 a {
+  text-decoration: none;
+  font-size: 12px;
+  color: rgb(252, 115, 52);
+  margin-bottom: 60px;
+}
+.fourthCard3 button {
+  background-color: rgb(35, 35, 63);
+  width: 120px;
+  height: 40px;
+  border: none;
+  border-radius: 5px;
+  color: white;
+}
+
+.fourthCard3 button:hover {
+  cursor: pointer;
+  background-color: rgb(55, 55, 95);
+}

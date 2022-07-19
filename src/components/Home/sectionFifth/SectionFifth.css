@@ -1,0 +1,31 @@
+.sectionFifth {
+  padding-top: 300px;
+  background-color: white;
+}
+
+.sectionFifth_content {
+  display: flex;
+  justify-content: center;
+  background-color: rgb(231, 231, 231);
+  padding: 50px 150px;
+  border-radius: 15px;
+}
+
+.fifth_card {
+  border-right: 2px solid rgb(185, 185, 185);
+  width: 300px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.without-border {
+  border: none;
+}
+.fifth_card p {
+  color: grey;
+}
+.count {
+  font-size: 30px;
+  font-weight: bold;
+}

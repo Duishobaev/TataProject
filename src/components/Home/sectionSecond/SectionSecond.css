@@ -1,0 +1,67 @@
+.sectionSecond {
+  background-color: white;
+}
+
+.title_content {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 70px;
+}
+
+.title_content {
+  font-size: larger;
+}
+.title_content button {
+  width: 170px;
+  height: 50px;
+  background-color: rgb(243, 118, 2);
+  color: white;
+  border: none;
+  border-radius: 5px;
+}
+.title_content button:hover {
+  background-color: rgb(252, 132, 21);
+  cursor: pointer;
+}
+
+.cards {
+  display: flex;
+  justify-content: space-between;
+}
+
+.card:hover {
+  box-shadow: -1px 2px 5px rgb(83, 76, 76);
+}
+.card img {
+  width: 270px;
+  height: 320px;
+  margin-bottom: 10px;
+}
+.card_desc {
+  display: flex;
+  justify-content: space-between;
+}
+.card_desc_price {
+  display: flex;
+}
+.dollar {
+  margin-left: 5px;
+  color: rgb(252, 132, 21);
+}
+.discount {
+  font-size: 12px;
+  text-decoration: line-through;
+  margin-left: 15px;
+}
+.card_desc button {
+  width: 70px;
+  height: 30px;
+  background-color: black;
+  color: white;
+  border: none;
+  border-radius: 5px;
+}
+
+.card_desc button:hover {
+  background-color: rgb(243, 118, 2);
+}

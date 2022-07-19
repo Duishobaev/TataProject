@@ -1,0 +1,63 @@
+.sectionSix {
+  padding-top: 220px;
+  background-color: white;
+}
+
+.sixPart1 {
+  display: flex;
+  justify-content: space-between;
+}
+.sixPart1 h2 {
+  font-size: 45px;
+}
+.sixPart1_right {
+  display: flex;
+}
+.sixPart1_right p {
+  color: grey;
+}
+.sixPart1_right button {
+  width: 170px;
+  height: 50px;
+  background-color: rgb(243, 118, 2);
+  color: white;
+  border: none;
+  border-radius: 5px;
+  margin-left: 15px;
+}
+
+.sixPart1_right button:hover {
+  background-color: rgb(253, 140, 34);
+  cursor: pointer;
+}
+
+.sixPart2 {
+  padding-top: 50px;
+  display: flex;
+  justify-content: space-between;
+}
+.sixCard img {
+  width: 360px;
+  height: 380px;
+}
+.sixCard_des {
+  display: flex;
+  justify-content: space-between;
+  height: 100px;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+.sixCard_des__field_mini {
+  color: grey;
+}
+.sixCard_des__field_title {
+  padding-top: 5px;
+  font-weight: bolder;
+}
+.sixPrice {
+  font-size: 20px;
+  color: rgb(245, 161, 6);
+}
+.sixCard {
+  box-shadow: -2px 10px 20px rgb(138, 130, 130);
+}

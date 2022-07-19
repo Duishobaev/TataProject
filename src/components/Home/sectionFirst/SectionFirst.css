@@ -1,0 +1,42 @@
+.sectionFirst {
+  padding-top: 150px;
+  background-color: white;
+  height: 450px;
+}
+.wrapperSecond {
+  width: 85%;
+  margin: 0 auto;
+}
+.sectionFirst_content {
+  display: flex;
+  justify-content: space-between;
+  background-color: rgb(236, 236, 232);
+  padding: 20px 100px;
+  position: relative;
+}
+.sectionFirst_content p {
+  font-size: larger;
+  font-weight: 600;
+  color: rgb(10, 10, 71);
+  margin-top: 40px;
+}
+.sectionFirst_content_photo1 {
+  width: 200px;
+  height: 150px;
+  position: absolute;
+  left: 400px;
+  bottom: 65px;
+}
+
+.sectionFirst_content_photo2 {
+  width: 200px;
+  height: 150px;
+  position: absolute;
+  left: 60px;
+  bottom: 75px;
+}
+
+.sectionFirst_content_photo3 {
+  width: 200px;
+  height: 150px;
+}

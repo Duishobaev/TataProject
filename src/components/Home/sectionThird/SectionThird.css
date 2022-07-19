@@ -1,0 +1,74 @@
+.sectionThird {
+  background-color: white;
+  padding-top: 100px;
+}
+
+.sectionThird_content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: white;
+}
+
+.part1 {
+  margin-bottom: 150px;
+}
+.part1 h2 {
+  margin-bottom: 30px;
+}
+.catalog {
+  height: 40px;
+  border-bottom: 1px solid rgb(146, 143, 143);
+}
+.catalog ul {
+  display: flex;
+  justify-content: space-between;
+}
+
+.catalog li {
+  list-style-type: none;
+  height: 40px;
+}
+
+.catalog li:hover {
+  cursor: pointer;
+  border-bottom: 2px solid rgb(248, 163, 5);
+}
+
+.part2 {
+  display: flex;
+  justify-content: space-between;
+  position: relative;
+  width: 100%;
+}
+.part2_img {
+  position: absolute;
+  width: 180px;
+  height: 180px;
+  left: 350px;
+  top: 120px;
+  border: 4px solid white;
+  border-radius: 5px;
+}
+
+.part2_title h2 {
+  font-size: 50px;
+  color: rgb(2, 2, 41);
+}
+
+.part2_title p {
+  color: rgb(2, 2, 41);
+  margin-bottom: 30px;
+}
+.part2_title button {
+  width: 170px;
+  height: 50px;
+  background-color: rgb(243, 118, 2);
+  color: white;
+  border: none;
+  border-radius: 5px;
+}
+.part2_title button:hover {
+  background-color: rgb(253, 140, 34);
+  cursor: pointer;
+}
